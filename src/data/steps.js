@@ -1,8 +1,7 @@
 export const STEPS = [
   {
     type: "greeting",
-    title: "He estado pensando...",
-    content: "Y creo que ya sé las razones por las que quieres estar conmigo 🥱"
+    title: "He estado pensando... Y creo que ya sé las razones por las que quieres estar conmigo 🥱"
   },
   {
     type: "greeting",
@@ -25,14 +24,14 @@ export const UI_TEXTS = {
     title: "CUPÓN VÁLIDO PARA IR A VER",
     prize: "Spider-Man",
     valid_for: "Próximo plan",
-    recipient: "Para: ",
+    recipient: "Para: La persona que me gusta mucho ❤️ ",
     date: "Próximamente",
     location: "Cine",
     footer: "Este cupón es válido solo cuando sea descargado y enviado a mi (Jake) para acordar detalles de la salida",
   },
   question: {
     yes_btn: "POR SUPUESTO QUE SIII ❤️",
-    no_btn: "No wakala 🥺",
+    no_btn: "NOOO 🥺",
   },
   photo: {
     alt: "Moment",
