@@ -24,7 +24,7 @@ export const UI_TEXTS = {
     title: "CUPÓN VÁLIDO PARA IR A VER",
     prize: "Spider-Man",
     valid_for: "Próximo plan",
-    recipient: "Para: La persona que me gusta mucho ❤️ ",
+    recipient: "Para: La persona que me gust ❤️ ",
     date: "Próximamente",
     location: "Cine",
     footer: "Este cupón es válido solo cuando sea descargado y enviado a mi (Jake) para acordar detalles de la salida",
