@@ -12,7 +12,7 @@ const TextStep = ({ data }) => {
         </svg>
       </div>
 
-      <h1 className="text-5xl md:text-6xl font-serif font-bold text-[#2a1a1a] mb-6 text-center tracking-wide">
+      <h1 className="text-5xl md:text-6xl font-serif font-bold text-[#cb9797] mb-6 text-center tracking-wide">
         {data.title}
       </h1>
 
